@@ -1,0 +1,15 @@
+{
+  "name": "nodeapp-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "prom-client": "12.0.0"
+  }
+}
